@@ -1,0 +1,413 @@
+*{
+    padding: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#navbar{
+    height: 96px;
+    background-color: #041d54;
+    padding: 8px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo{
+    width: 227px;;
+    height: 80;
+    
+}
+
+#logopic{
+    margin: 10px;
+}
+#navbar{
+    display: flex;
+    flex-direction: row;
+}
+#search{
+    height: 50px;
+}
+#navlist{
+    display: flex;
+    flex-direction: row;
+    height: 61px;
+    width: 1144px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 30px;
+    justify-content:space-between;
+}
+#jub{
+    width: 80px;;
+    height:90px;
+}
+#panel{
+    font-family: sans-serif;
+    color: #212529;
+    background-color: #b9eafcec;
+    height: 30px;
+    padding: 5px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#links{
+    height: 288px;
+    color: #212529;
+    margin: 10px 10px;
+    padding: 10px;
+
+}
+#row1{
+    margin: 0px 12px;
+    display: flex;
+    border: #212529; 
+    justify-content: space-between;
+}
+
+#livecermony{
+    width: 279px;
+    height: 210px;
+    margin: 30px 0px 0px;
+    padding: 0px 12px;
+    background-color:#B9EAFC69 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+}
+
+#liveicon{
+    position: relative;
+    bottom: 40px;
+    left: 90px;
+}
+
+#liveallign{
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+}
+
+#livediv{
+    padding: 10px;
+    width: 147px;
+    height: 27px;
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+
+#ipuhealthmela{
+    width: 167px;
+    height: 50px;
+    padding: 10px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#videos{
+    width: 279px;
+    height: 210px;
+    margin: 30px 0px 0px;
+    padding: 0px 12px;
+    background-color:#B9EAFC69 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+}
+
+#videologo{
+    position: relative;
+    bottom: 60px;
+    left: 100px;
+}
+
+#videocontent{
+    font-size: large;
+    font-weight: bolder;
+    font-size: 20px;
+    position: relative;
+    bottom: 25px;
+    padding: 10px;
+}
+
+#rank{
+    width: 279px;
+    height: 210px;
+    margin: 30px 0px 0px;
+    padding: 0px 12px;
+    background-color:#B9EAFC69 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+}
+
+#ranklogo{
+    position: relative;
+    left: 85px;
+    bottom: 40px;
+}
+
+#rankcont{
+    padding: 10px;
+    font-size: large;
+    font-weight: bolder;
+    font-size: 20px;
+    position: relative;
+    bottom: 25px;
+}
+
+
+
+#support{
+    width: 279px;
+    height: 210px;
+    margin: 30px 0px 0px;
+    padding: 0px 12px;
+    background-color:#B9EAFC69 ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+#supportmail{
+    padding: 10px;
+    margin: 20px 0px 0px;
+    font-size: large;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
+#examcontact{
+    padding: 10px;
+    margin: 20px 0px 0px;
+    font-size: 13px;
+
+}
+
+#supportlogo{
+    position: relative;
+    left: 100px;
+    bottom: 35px;
+}
+
+#supportcont{
+    position: relative;
+    bottom: 40px;
+}
+
+#link2{
+    height: 470px;
+    font-family: sans-serif;
+    margin: 0px 10px;
+    font-size: 16px;
+    padding-bottom: 40px;
+}
+
+
+#row2{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 40px;
+
+}
+#admission{
+    width: 285px;
+    height: 450px;
+    background-color: #B9EAFC69;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+#botscroll{
+    height: 273px;
+    width: 252px;
+    font-weight: 25px;
+    display: flex;
+    justify-content: center;
+
+}
+
+#addheader{
+    width: 251px;
+    height: 81px;
+    margin: 0px 0px 8px;
+    color: #212529;
+    font-family: sans-serif;
+    font-size: 24px;
+    padding: 24px 0px 4px;
+
+}
+
+#scroll1{
+    width: 251px;
+    height: 272px;
+}
+
+#addbutton{
+    width: 251px;
+    height: 42px;
+    background-color: #041d53;
+    padding: 5px 5px;
+    margin: 16px  0px;
+    color: #ffcb04;
+    font-weight:bolder;
+    border-radius: 50px;
+}
+
+#importantlinks{
+    background-color:#B9EAFC69;
+    width: 285px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#linkheader{
+    width: 251px;
+    height: 57px;
+    margin: 0px 0px 8px;
+    padding: 24px 0px 4px;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#linkbutton{
+    width: 251px;
+    height: 42px;
+    background-color: #041d53;
+    padding: 5px 5px;
+    margin: 16px  0px;
+    color: #ffcb04;
+    font-weight: bolder;
+    border-radius: 50px;
+
+}
+
+#students{
+    background-color: #B9EAFC69;
+    width: 285px;
+    height: 450px;
+    text-align: center;
+}
+
+#studentheader{
+    width: 251px;
+    height: 57px;
+    margin: 0px 0px 8px;
+    padding: 24px 0px 4px;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-align: center;
+}
+#studentbutton{
+    width: 251px;
+    height: 42px;
+    background-color: #041d53;
+    padding: 5px 5px;
+    margin: 16px  0px;
+    color: #ffcb04;
+    font-weight: bolder;
+    border-radius: 50px;
+}
+
+#alert{
+
+    background-color: #B9EAFC69;
+    width: 285px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#alertheader{
+    width: 251px;
+    height: 57px;
+    margin: 0px 0px 8px;
+    padding: 24px 0px 4px;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#alertbutton{
+    width: 251px;
+    height: 42px;
+    background-color: #041d53;
+    padding: 5px 5px;
+    margin: 16px  0px;
+    color: #ffcb04;
+    font-weight: bolder;
+    border-radius: 50px;
+}
+
+#footer{
+    padding-top: 50px;
+} 
+#ipulogo{
+    z-index: 1;
+    position: relative;
+    bottom: 75px;
+
+
+}
+#end{
+    height: 360px;
+    background-color: #041d53;
+}
+#bot{
+    display: flex;
+    justify-content: space-around;
+    padding:0px 20px;
+
+}
+
+#div1{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    height: 180px;
+    
+}
+
+#div2{
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+}
+
+#div3{
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+}
+#last{
+    color: white;
+    text-align: center; 
+    padding: 5px 0px 2px; 
+    font-size: small;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size:20px;
+    line-height: 25px
+}
